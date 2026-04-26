@@ -25,7 +25,7 @@ Each environment was built from scratch using the **Gymnasium** framework, with 
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/AAAY1119/rocket-landing-ppo.git
+git clone https://github.com/AAAAY1119/rocket-landing-ppo.git
 cd rocket_landing_project
 pip install -r requirements.txt
 cd src
